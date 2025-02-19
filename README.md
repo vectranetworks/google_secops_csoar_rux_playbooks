@@ -1,1 +1,2 @@
-# google_secops_csoar_rux_playbooks
+# Vectra integration for Google SecOps SOAR
+Add-on components
